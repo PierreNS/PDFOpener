@@ -1,0 +1,10 @@
+C:\Users\PS\source\repos\ResourcesFolderTest\bin\Debug\ResourcesFolderTest.exe.config
+C:\Users\PS\source\repos\ResourcesFolderTest\bin\Debug\ResourcesFolderTest.exe
+C:\Users\PS\source\repos\ResourcesFolderTest\bin\Debug\ResourcesFolderTest.pdb
+C:\Users\PS\source\repos\ResourcesFolderTest\obj\Debug\ResourcesFolderTest.csprojAssemblyReference.cache
+C:\Users\PS\source\repos\ResourcesFolderTest\obj\Debug\ResourcesFolderTest.Form1.resources
+C:\Users\PS\source\repos\ResourcesFolderTest\obj\Debug\ResourcesFolderTest.Properties.Resources.resources
+C:\Users\PS\source\repos\ResourcesFolderTest\obj\Debug\ResourcesFolderTest.csproj.GenerateResource.cache
+C:\Users\PS\source\repos\ResourcesFolderTest\obj\Debug\ResourcesFolderTest.csproj.CoreCompileInputs.cache
+C:\Users\PS\source\repos\ResourcesFolderTest\obj\Debug\ResourcesFolderTest.exe
+C:\Users\PS\source\repos\ResourcesFolderTest\obj\Debug\ResourcesFolderTest.pdb
